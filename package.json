@@ -1,0 +1,37 @@
+{
+  "name": "express-scaffold",
+  "description": "Express App Scaffold",
+  "version": "0.1.0",
+  "main": "app.js",
+  "private": true,
+  "engines": {
+    "node": "10.12.0",
+    "npm": "6.4.1"
+  },
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/koopcodes/express-scaffold.git"
+  },
+  "keywords": [
+    "express",
+    "koopcodes",
+    "express",
+    "node"
+  ],
+  "author": "koop",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/koopcodes/express-scaffold/issues"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "morgan": "~1.9.0",
+    "pug": "^2.0.3"
+  }
+}
