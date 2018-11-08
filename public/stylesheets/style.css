@@ -1,6 +1,11 @@
 body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  padding-top: 5%;
+  font: 3em "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: royalblue;
+  color: aliceblue;
+  text-align: center;
+  margin-left: 30%;
+  margin-right: 30%;
 }
 
 a {
